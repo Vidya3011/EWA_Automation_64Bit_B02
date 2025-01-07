@@ -22,12 +22,12 @@
        </classes>
        </test>  
      
-   <!--   <test name="Test 5">
+     <test name="Test 5">
        <classes>
        <class name="Computhink.Script.ManualWorkflow"/> 
     </classes>
   </test>  
-  <test name="Test 6">
+  <!-- <test name="Test 6">
        <classes>
       <class name="Computhink.Script.DynamicWorkflow"/>
     </classes>

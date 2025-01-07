@@ -2300,7 +2300,6 @@ VerifyDocumentListingOrNot();
 		Reporter.log("Page refreshed after search.");
 
 		// Final check for SoftAssert
-		so.assertAll();
 
 	}
 

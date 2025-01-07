@@ -35,6 +35,10 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17"/>
-	<classpathentry kind="lib" path="C:/Users/dipak.p/Downloads/testng-7.10.2.jar"/>
+	<classpathentry kind="lib" path="D:/Augest 29-24 War/EWA_Automation_Codes_CV2024-B02-master/EWA_Automation_Codes_CV2024-B02-master/jar/testng-7.10.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

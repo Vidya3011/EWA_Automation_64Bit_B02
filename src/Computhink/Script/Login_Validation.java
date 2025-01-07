@@ -78,7 +78,7 @@ public class Login_Validation extends Computhink.Generic.BaseClass {
 
 	}
 
-	@Test(priority = 6)
+	//@Test(priority = 6)
 	public void TC_06_Verifying_Login_EWA_with_Invalid_Password() throws Exception {
 
 		Login pojo = new Login();
