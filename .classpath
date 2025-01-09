@@ -22,6 +22,7 @@
 	<classpathentry kind="lib" path="jar/mssql-jdbc-7.2.2.jre8.jar"/>
 	<classpathentry kind="lib" path="jar/velocity-dep-1.4.jar"/>
 	<classpathentry kind="lib" path="jar/webdrivermanager-5.5.2.jar"/>
+	<classpathentry kind="lib" path="jar/testng-7.10.2.jar"/>
 	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
 		<attributes>
 			<attribute name="optional" value="true"/>
@@ -36,12 +37,8 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
 		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="D:/Augest 29-24 War/EWA_Automation_Codes_CV2024-B02-master/EWA_Automation_Codes_CV2024-B02-master/jar/testng-7.10.2.jar">
-		<attributes>
 			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
