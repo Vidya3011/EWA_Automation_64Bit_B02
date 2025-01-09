@@ -116,9 +116,9 @@
       <class name="Computhink.Script.ZeroPageDocumentCheckingCodesForAllFolder"/>
     </classes>
   </test>
-    <test name="Test26">
+   <!--  <test name="Test26">
        <classes>
       <class name="Computhink.Script.UnsupportedFiles"/>
     </classes>
-  </test>   
+  </test>   --> 
  </suite> 

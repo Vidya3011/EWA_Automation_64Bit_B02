@@ -3,15 +3,18 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Computhink.Script.DashBoardScript">
+      <class name="Computhink.Script.AdvancedViewer_Script">
         <methods>
-          <include name="TC_7_Contentverse_RejectDocumentInWFReport_Report"/>
-          <include name="TC_6_Contentverse_WrokflowStatus_Report"/>
-          <include name="TC_8_logoutFromDB"/>
-          <include name="ladBrowser"/>
-          <include name="TC_5_Contentverse_Document_Report"/>
+          <include name="TestCase_5_Verify_Link_Option"/>
+          <include name="TestCase_4_AdvancedViewerWordDocument"/>
+          <include name="TestCase_1_AdvancedViewerOptionSelection"/>
+          <include name="TestCase_8_Save_And_Reopen"/>
+          <include name="TestCase_6_Verify_Header_Option"/>
+          <include name="TestCase_2_AdvancedViewerPDfDocument"/>
+          <include name="TestCase_3_AdvancedViewerExcelDocument"/>
+          <include name="TestCase_7_Verify_Footer_Option"/>
         </methods>
-      </class> <!-- Computhink.Script.DashBoardScript -->
+      </class> <!-- Computhink.Script.AdvancedViewer_Script -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

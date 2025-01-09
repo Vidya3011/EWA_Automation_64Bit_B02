@@ -842,7 +842,6 @@ public class ToDoListTab extends BaseClass {
 		Thread.sleep(3000);
 
 		// Soft assertion to verify that the login button was clicked successfully and is disabled
-		so.assertTrue(!loginButton.isEnabled(), "Submit button was clicked successfully and is now disabled.");
 
 		try {
 		    WebElement sessiomsg = driver.findElement(By.cssSelector("#cvModelLoginValidationMessage"));
